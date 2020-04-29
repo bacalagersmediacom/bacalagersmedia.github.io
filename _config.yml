@@ -2,8 +2,8 @@ title:              Bacalagers Group Clean Blogs
 email:              halo@bacalagers.com
 description:        BacalagersMedia.Githup.io adalah portal berita terbaru dan terkini, gaya hidup, peluang usaha bisnis, tips kesehatan, tempat wisata, inspirasi dan motivasi, dan lainnya.
 author:             Bacalagers Media
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+baseurl:            "/index.html"
+url:                "https://bacalagersmedia.github.io"
 
 # Social Profiles
 twitter_username:   bacalagersmedia
